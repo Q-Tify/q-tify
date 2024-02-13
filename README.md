@@ -1,5 +1,4 @@
-### Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/QTify?theme=forest&font=Cousine)
+![LeetCode Stats](https://leetcard.jacoblin.cool/QTify?theme=light&font=Cousine)
 <!--
 **Q-Tify/q-tify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
