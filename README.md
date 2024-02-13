@@ -1,7 +1,11 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/QTify?theme=light&font=Cousine)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/QTify?theme=light&font=Cousine" />
+</p>
+
+
 <!--
 **Q-Tify/q-tify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/QTify?theme=light&font=Cousine)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
